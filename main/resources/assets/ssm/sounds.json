@@ -1,0 +1,7 @@
+{
+  "magicMirror": {
+    "category": "block",
+    "subtitle": "magicmirror.subtitle.magicMirror",
+    "sounds": [ "magicmirror:magicMirror" ]
+  }
+}
